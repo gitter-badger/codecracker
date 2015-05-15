@@ -1,4 +1,4 @@
-package codecracker;
+package io.github.spacegeek224;
 
 public class CodeCrackerMain {
 
